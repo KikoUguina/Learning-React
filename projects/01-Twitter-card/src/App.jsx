@@ -19,7 +19,7 @@ const users=[
         isFollowing:true
     },
     {
-        userName:'isaagc.17_',
+        userName:'isaaagc17_',
         name: 'Isabel Gómez Carballo',
         isFollowing:false
     }
